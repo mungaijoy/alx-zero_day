@@ -1,2 +1,2 @@
-Updated 
-My first readme
+#!/bin/bash
+School
